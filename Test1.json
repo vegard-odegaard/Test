@@ -3,19 +3,19 @@
     "contentVersion": "1.0.0.0",
 	"parameters": {
         "PlaybookName": {
-            "defaultValue": "PlaybookName",
+            "defaultValue": "Test1",
             "type": "string"
         },
         "UserName": {
-            "defaultValue": "<username>@<domain>",
+            "defaultValue": "vegard.odegaard@rejlers.no",
             "type": "string"
         },
         "AutomationAccount": {
-            "defaultValue": "Name of Azure Automation Account",
+            "defaultValue": "ncopmgmt-mgmt-automation",
             "type": "string"
         },
         "HybridWorkGroup": {
-            "defaultValue": "Hybrid Worker Group configured for Exchange server",
+            "defaultValue": "Test1-EXH",
             "type": "string"
         }
     },
